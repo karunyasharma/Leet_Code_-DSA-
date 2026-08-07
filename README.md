@@ -24,5 +24,10 @@
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/karunyasharma/Leet_Code_-DSA-/tree/master/0046-permutations) |
 | [0066-plus-one](https://github.com/karunyasharma/Leet_Code_-DSA-/tree/master/0066-plus-one) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/karunyasharma/Leet_Code_-DSA-/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
