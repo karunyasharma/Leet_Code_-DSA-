@@ -25,9 +25,15 @@
 |  |
 | ------- |
 | [0046-permutations](https://github.com/karunyasharma/Leet_Code_-DSA-/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/karunyasharma/Leet_Code_-DSA-/tree/master/0047-permutations-ii) |
 | [0066-plus-one](https://github.com/karunyasharma/Leet_Code_-DSA-/tree/master/0066-plus-one) |
 ## Backtracking
 |  |
 | ------- |
 | [0046-permutations](https://github.com/karunyasharma/Leet_Code_-DSA-/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/karunyasharma/Leet_Code_-DSA-/tree/master/0047-permutations-ii) |
+## Sorting
+|  |
+| ------- |
+| [0047-permutations-ii](https://github.com/karunyasharma/Leet_Code_-DSA-/tree/master/0047-permutations-ii) |
 <!---LeetCode Topics End-->
