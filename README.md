@@ -25,6 +25,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/karunyasharma/Leet_Code_-DSA-/tree/master/0001-two-sum) |
 | [0046-permutations](https://github.com/karunyasharma/Leet_Code_-DSA-/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/karunyasharma/Leet_Code_-DSA-/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/karunyasharma/Leet_Code_-DSA-/tree/master/0048-rotate-image) |
@@ -42,4 +43,8 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/karunyasharma/Leet_Code_-DSA-/tree/master/0048-rotate-image) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/karunyasharma/Leet_Code_-DSA-/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
